@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6af54017-051c-4094-a125-4643992a3184": {
+      "ProjectGuid": "6af54017-051c-4094-a125-4643992a3184",
+      "DisplayName": "Pipelines-AspNetCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
